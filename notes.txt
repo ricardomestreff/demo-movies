@@ -1,0 +1,16 @@
+THE MOVIE DATABASE
+
+API_KEY = '539291e714a3f274f37fc768ba580bad'
+
+Endpoints:
+images: https://image.tmdb.org/t/p/w500/kqjL17yufvn9OVLyXYpvtyrFfak.jpg
+api: https://api.themoviedb.org/3
+
+TV:
+/tv/top_rated
+
+MOVIES:
+/movie/top_rated
+
+SEARCH:
+/search/multi
